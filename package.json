@@ -1,0 +1,19 @@
+{
+  "name": "matu-shree-website",
+  "version": "1.0.0",
+  "description": "Matu Shree Art and Craft - Premium handcrafted furniture and home decor",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "furniture",
+    "handcrafted",
+    "home-decor"
+  ],
+  "author": "Matu Shree Art & Craft",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
